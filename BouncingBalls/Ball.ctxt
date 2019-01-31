@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ball
+comment1.params=
+comment1.target=Ball()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=range
+comment3.target=void\ bounce(int)
+numComments=4
