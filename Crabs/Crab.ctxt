@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Crab
+comment1.params=
+comment1.target=Crab()
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ Added\ to\ World\ -\ instructions\ for\ Crab\ when\ placed\ in\ the\ world.\ This\r\n\ method\ tests\ whether\ the\ Crab\ is\ touching\ a\ Worm\ at\ its\ randomly\r\n\ defined\ position.\ If\ it\ is,\ it\ is\ relocated.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment4.params=a\ i
+comment4.target=void\ cycleIndex(greenfoot.GreenfootImage[],\ int)
+comment4.text=\r\n\ CycleIndex\ -\ Increments\ index\ variable\ if\ it\ will\ not\ equal\ the\ maximum\ index\ of\ given\ array.\ Otherwise,\ sets\ it\ to\ zero.\r\n
+comment5.params=
+comment5.target=void\ edgeTest()
+comment5.text=\r\n\ EdgeTest\ -\ Turns\ Crab\ a\ random\ amount\ between\ 45\ and\ 90\ degrees\ when\ touching\ the\ edge.\r\n\ This\ method\ is\ called\ in\ the\ Act\ method.\r\n
+comment6.params=
+comment6.target=void\ randomTurn()
+comment6.text=\r\n\ RandomTurn\ -\ 30%\ chance\ to\ turn\ Crab\ between\ -60\ and\ 60\ degrees.\r\n\ This\ method\ is\ called\ in\ the\ Act\ method.\r\n
+comment7.params=
+comment7.target=void\ tryToEat()
+comment7.text=\r\n\ TryToEat\ -\ Deletes\ Worm\ if\ it\ is\ touching\ a\ Crab.\r\n\ This\ method\ is\ called\ in\ the\ Act\ method.\r\n
+numComments=8
